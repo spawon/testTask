@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "name": "milk",
+    "price": 2,
+    "date": "30.07.2020"
+  },
+  {
+    "id": 2,
+    "name": "bread",
+    "price": 1,
+    "date": "30.06.2020"
+  },
+  {
+    "id": 3,
+    "name": "chocolate",
+    "price": 3,
+    "date": "30.06.2020"
+  },
+  {
+    "id": 4,
+    "name": "sausage",
+    "price": 2,
+    "date": "1.07.2020"
+  },
+  {
+    "id": 5,
+    "name": "coffee",
+    "price": 4,
+    "date": "1.07.2020"
+  },
+  {
+    "id": 6,
+    "name": "tea",
+    "price": 6,
+    "date": "1.07.2020"
+  },
+  {
+    "id": 7,
+    "name": "cacao",
+    "price": 3,
+    "date": "1.07.2020"
+  }
+
+]
