@@ -15,6 +15,7 @@
         <td>
           <span v-if="product !== editingProduct">{{product.name}}</span>
           <input
+            class="product-list__item_name"
             type="text"
             v-if="product === editingProduct"
             @keyup.enter="save(editData)"
@@ -23,6 +24,7 @@
         <td>
           <span v-if="product !== editingProduct">{{product.price}}</span>
           <input
+            class="product-list__item_price"
             type="text"
             v-if="product === editingProduct"
             @keyup.enter="save(editData)"
